@@ -52,6 +52,17 @@ h1 {
 #loginBtn{
     background-color: cyan;
 }
+#searchBar {
+    float : right
+}
+#srchBtn {
+    background-color:  rgb(43, 39, 39);;
+    border-radius: 2px;
+    border-color: gold;
+    color: gold;
+    float : right
+}
+
 
 
 
