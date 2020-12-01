@@ -1,0 +1,57 @@
+h1 {
+    background-color: rgb(43, 39, 39);
+    color: white;
+    font-style: normal;
+    font-weight: lighter;
+    word-spacing: 20px;
+    text-indent: 10px; 
+    width: 100%;
+}
+
+#homeBtn{
+    color: white;
+    font-size: small;
+    border: rgb(43, 39, 39);
+    background-color: rgb(43, 39, 39);
+}
+
+#loginPage{
+    color: white;
+    font-size: small;
+    border: rgb(43, 39, 39);
+    background-color: rgb(43, 39, 39);
+}
+
+#gmbd{
+    color: white;
+    font-size: large;
+    border: rgb(43, 39, 39);
+    background-color: rgb(43, 39, 39);
+}
+
+#flex-contain {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+}
+#h2Page1 {
+    color: gold;
+    background-color: gray;
+    padding: 3px;
+    font-size: smaller;
+}
+#bodyLogin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#h2Login {
+    text-indent: 10px;
+}
+#loginBtn{
+    background-color: cyan;
+}
+
+
+
